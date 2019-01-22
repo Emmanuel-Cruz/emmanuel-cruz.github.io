@@ -49,12 +49,18 @@ My University Email</b>
 <font size ="5"><b>
 My University</b>
 </font>
-..................................... Cornell Tech, NYC, USA</p>    
+..................................... <a href = "https://tech.cornell.edu/">Cornell Tech </a>, NYC, USA</p>    
 <p>
 <font size ="5"><b>
 My Cellular</b>
 </font>
 ..................................... 732-379-7179</p>   
+<p>
+<font size ="5"><b>
+My Github</b>
+</font>
+..................................... <a href="https://github.com/emmanuel-cruz">emmanuel-cruz</a>
+</p>
 <p>
 <font size ="5"><b>
 My Company Email</b>
