@@ -12,7 +12,7 @@ permalink: /about/
         <span class="month">Aug</span>
         <span class="year">2014</span>
       </span>
-      <h2>Join The University of South Florida</h2>
+      <h2>Joined The University of South Florida</h2>
       <p>Moved from New Jersey to Tampa Florida for a four year Bachelors of Science in Chemistry. Made great friends, and joined Alpha Sigma Phi fraternity.</p>
     </div>
   </article>
@@ -38,6 +38,7 @@ permalink: /about/
       <p>I fell in love with the Leahy group, and their research in cannabinoids. Cannabinoids are naturally occuring molecules which are normally found in the cannabis plant. In the Leahy group, I was able to help further the research of Tetrahydrocannabinol &Delta; 9 (THC &Delta; 9) and cannabidiol (CBD), their pharmacokinetics, dynamics, and synthesis.</p>
     </div>
   </article>
+
   <article>
     <div class="inner">
       <span class="date">

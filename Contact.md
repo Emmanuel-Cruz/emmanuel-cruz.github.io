@@ -35,35 +35,30 @@ permalink: "/contact/"
 
 
 </p>
+<h3>General Contact Info</h3>
 <p>
-<font size ="5"><b>
-My Email</b>
+<font size ="3"><b>
+Email</b>
 </font>
 ..................................... emmanuelcruz123@gmail.com</p>
 <p>
-<font size ="5"><b>
-My University Email</b>
+<font size ="3"><b>
+University Email</b>
 </font>
 ..................................... ec856@cornell.edu</p>    
 <p>
-<font size ="5"><b>
-My University</b>
+<font size ="3"><b>
+University</b>
 </font>
 ..................................... <a href = "https://tech.cornell.edu/">Cornell Tech </a>, NYC, USA</p>    
 <p>
-<font size ="5"><b>
-My Cellular</b>
+<font size ="3"><b>
+Cellular</b>
 </font>
 ..................................... 732-379-7179</p>   
 <p>
-<font size ="5"><b>
-My Github</b>
+<font size ="3"><b>
+Github</b>
 </font>
 ..................................... <a href="https://github.com/emmanuel-cruz">emmanuel-cruz</a>
-</p>
-<p>
-<font size ="5"><b>
-My Company Email</b>
-</font>
-..................................... *Pending*
 </p>
