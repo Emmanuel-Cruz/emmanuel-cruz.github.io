@@ -5,13 +5,12 @@
 layout: home
 main-title: Emmanuel Cruz
 ---
-
+<!-- 
 <h5>Todo:</h5>
 <ul>
-    <li>include transcripts in resume</li>
     <li>add content to objectives</li>
     <li>add content to mystory </li>
-    <li>add content to projects </li>
-    <li>add header intro paragraph to 'about'</li>
     <li>fix subscribe button</li>
 </ul>
+
+-->

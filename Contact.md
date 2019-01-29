@@ -17,7 +17,7 @@ permalink: "/contact/"
     </fieldset>
     <fieldset class="field">
         <textarea class="input" name="message" rows="1" placeholder="Message" id="message" required></textarea>
-        <label class="label" for="message"><span class="label-content"><b>Your Message!</b></span></label>
+        <label class="label" for="message"><span class="label-content"><b>Your Message</b></span></label>
     </fieldset>
     <input class="hidden" type="text" name="_gotcha" style="display:none">
     <input class="hidden" type="hidden" name="_subject" value="Message via http://domain.com">
