@@ -85,6 +85,7 @@ permalink: /about/
 
   </article>
 
+<<<<<<< HEAD
   <article>
     <div class="inner">
       <span class="date">
@@ -111,4 +112,6 @@ permalink: /about/
 
   </article>
 
+=======
+>>>>>>> 71d5c653334c13824882ea59dc66fb6f0faaa207
 </section>

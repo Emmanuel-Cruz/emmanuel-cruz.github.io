@@ -3,10 +3,13 @@ layout: "page"
 title: "Resume"
 ---
 
+<<<<<<< HEAD
 
 <p> --Will Update Resume Page When Neccesary--</p>
 
 <h2>ARCHIVES</h2>
+=======
+>>>>>>> 71d5c653334c13824882ea59dc66fb6f0faaa207
 <p> --January 2019--</p>
 <h5>My research, my projects, and the time I spent doing each of them in detail. </h5>
 <a href="/assets/resumes/jan2019_long.pdf" download>
